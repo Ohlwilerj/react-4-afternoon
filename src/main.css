@@ -81,3 +81,16 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+
+.home, .back {
+  background: #143A56;
+  background-image: -webkit-linear-gradient(right, #143A56, #2079b0 );
+  color: white;
+  border-radius: 20px;
+  font-size: 12pt;
+  font-family: 'Crimson Text', serif;
+  width: 6rem;
+  outline-color: white;
+}
+
+
